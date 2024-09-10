@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JhzTMKVQn41/mq35MIqTvv82DbIjsQFYOrL0clxhYx8=",
+  "Hash": "O4hMAWtGMdk3Ck3zG7AJ8kTr0JBLKVkmVb2fZShEles=",
   "Source": "SimpleBookCatalog",
   "BasePath": "_content/SimpleBookCatalog",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SimpleBookCatalog\\wwwroot",
       "Source": "SimpleBookCatalog",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\",
       "BasePath": "_content/SimpleBookCatalog",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleBookCatalog.styles.css",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleBookCatalog.styles.css",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "SimpleBookCatalog.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleBookCatalog.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleBookCatalog.styles.css"
     },
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "SimpleBookCatalog.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css"
     },
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\app.css",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\favicon.png",
       "SourceId": "SimpleBookCatalog",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\",
       "BasePath": "_content/SimpleBookCatalog",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

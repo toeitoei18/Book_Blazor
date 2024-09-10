@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBookCatalog.Domain", "SimpleBookCatalog.Domain\SimpleBookCatalog.Domain.csproj", "{79B83DDE-0934-4A15-9587-C30EC84719CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBookCatalog.Domain", "SimpleBookCatalog.Domain\SimpleBookCatalog.Domain.csproj", "{79B83DDE-0934-4A15-9587-C30EC84719CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBookCatalog.Application", "SimpleBookCatalog.Application\SimpleBookCatalog.Application.csproj", "{A9B1E383-9A1F-483C-9AB5-B89747131CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBookCatalog.Application", "SimpleBookCatalog.Application\SimpleBookCatalog.Application.csproj", "{A9B1E383-9A1F-483C-9AB5-B89747131CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBookCatalog.lnfrastructure", "SimpleBookCatalog.lnfrastructure\SimpleBookCatalog.lnfrastructure.csproj", "{6E870EEB-AF24-4FED-91DC-79EA71106DEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBookCatalog.lnfrastructure", "SimpleBookCatalog.lnfrastructure\SimpleBookCatalog.lnfrastructure.csproj", "{6E870EEB-AF24-4FED-91DC-79EA71106DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBookCatalog", "SimpleBookCatalog\SimpleBookCatalog.csproj", "{1715F665-3BEF-444F-B08E-862EA45A687D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBookCatalog", "SimpleBookCatalog\SimpleBookCatalog.csproj", "{1715F665-3BEF-444F-B08E-862EA45A687D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

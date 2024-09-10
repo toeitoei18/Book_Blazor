@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css",
+      "Id": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.bundle.scp.css",
       "PackagePath": "staticwebassets\\SimpleBookCatalog.bundle.scp.css"
     },
     {
-      "Id": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

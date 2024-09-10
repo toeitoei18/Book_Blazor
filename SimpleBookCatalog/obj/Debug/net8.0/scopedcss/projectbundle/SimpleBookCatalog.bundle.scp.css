@@ -95,3 +95,13 @@ main[b-8fmw8g4rsz] {
         right: 0.75rem;
         top: 0.5rem;
     }
+/* _content/SimpleBookCatalog/Components/Pages/List.razor.rz.scp.css */
+
+
+book-item[b-o9mggqwfk3] {
+    padding:1.5rem;
+    margin-bottom:1rem;
+    box-shadow:0 0 0.5rem rgba(0,0,0,0.3);
+    border-radius:0.5rem;
+
+}

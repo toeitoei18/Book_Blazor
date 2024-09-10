@@ -16,7 +16,10 @@
       },
       "SimpleBookCatalog.Domain/1.0.0": {
         "runtime": {
-          "SimpleBookCatalog.Domain.dll": {}
+          "SimpleBookCatalog.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

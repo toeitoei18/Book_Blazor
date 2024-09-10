@@ -9,3 +9,15 @@ D:\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog
 D:\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
 D:\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
 D:\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.deps.json
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfo.cs
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.sourcelink.json
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\Toei\Source\Repos\toeitoei18\Book_Blazor\SimpleBookCatalog.Domain\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUnl5HgRvCCHu3xTLkBJeWIdJp5nxsDMHRj6VnTjW26TENebreYSxGxMAALvbkhDEM6FAq9ceOanak012Qjkjg==",
+  "dgSpecHash": "odMGEvGp5yo=",
   "success": true,
-  "projectFilePath": "D:\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
+  "projectFilePath": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

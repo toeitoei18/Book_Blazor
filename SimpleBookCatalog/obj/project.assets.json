@@ -4120,24 +4120,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Toei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\SimpleBookCatalog.csproj",
+      "projectUniqueName": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\SimpleBookCatalog.csproj",
       "projectName": "SimpleBookCatalog",
-      "projectPath": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\SimpleBookCatalog.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SimpleBookCatalog\\SimpleBookCatalog\\obj\\",
+      "projectPath": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\SimpleBookCatalog.csproj",
+      "packagesPath": "C:\\Users\\Toei\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Toei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4152,11 +4147,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
-              "projectPath": "D:\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
+            "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+              "projectPath": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
             },
-            "D:\\SimpleBookCatalog\\SimpleBookCatalog.lnfrastructure\\SimpleBookCatalog.lnfrastructure.csproj": {
-              "projectPath": "D:\\SimpleBookCatalog\\SimpleBookCatalog.lnfrastructure\\SimpleBookCatalog.lnfrastructure.csproj"
+            "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog.lnfrastructure\\SimpleBookCatalog.lnfrastructure.csproj": {
+              "projectPath": "C:\\Users\\Toei\\Source\\Repos\\toeitoei18\\Book_Blazor\\SimpleBookCatalog.lnfrastructure\\SimpleBookCatalog.lnfrastructure.csproj"
             }
           }
         }
@@ -4165,6 +4160,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4197,7 +4197,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

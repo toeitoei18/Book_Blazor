@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace SimpleBookCatalog.Domain.Enums
 {
-    public enum Categoty
+    public enum Category
     {
-        Sciene,Technology,Fitness,Travel
+        Science=1,Technology,Fitness,Travel
     }
 }
