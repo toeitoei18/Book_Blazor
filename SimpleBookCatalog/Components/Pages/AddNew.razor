@@ -1,0 +1,58 @@
+﻿@page "/add-new"
+
+<PageTitle>
+    Add New Book
+</PageTitle>
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <EditForm method="post" FormName="AddBookFrom" Model="Book" autocomplete="off">
+            <h3>
+                Add New Book
+            </h3>
+            <div class="mb-3">
+                <label for="title" class="from-label">
+                    Title
+                </label>
+                <InputText id="title" @bind-Value="Book.Title" class="from-control shadow-none ">
+                </InputText>
+            </div>
+            <div class="mb-3">
+                <label for="author" class="from-label">
+                    Author
+                </label>
+                <InputText id="author" @bind-Value="Book.Author" class="from-control shadow-none ">
+                </InputText>
+            </div>
+            <div class="mb-3">
+                <label for="publication-date" class="from-label">
+                    Date Publication
+                </label>
+                <InputDate id="publication-date" @bind-Value="Book.PublicationDate" class="from-control shadow-none ">
+                </InputDate>
+            </div>
+            <div class="mb-3">
+                <label for="category" class="from-label">
+                    Category
+                </label>
+                <InputSelect id="category" @bind-Value="Book.Category" class="from-control shadow-none ">
+                    <option value="0">
+                        Select Category
+                    </option>
+                    @foreach(var category in Enum.GetValues(typeof(Category)))
+                    {
+                        <option value="@category">
+                            @category.ToString()
+                        </option>
+                    }
+                </InputSelect>
+            </div>
+        </EditForm>
+
+    </div>
+</div>
+
+@code {
+
+    public Book Book { get; set; } = new();
+}
